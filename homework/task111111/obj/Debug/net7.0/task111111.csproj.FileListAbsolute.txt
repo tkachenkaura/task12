@@ -1,0 +1,4 @@
+E:\task111111\task111111\obj\Debug\net7.0\task111111.GeneratedMSBuildEditorConfig.editorconfig
+E:\task111111\task111111\obj\Debug\net7.0\task111111.AssemblyInfoInputs.cache
+E:\task111111\task111111\obj\Debug\net7.0\task111111.AssemblyInfo.cs
+E:\task111111\task111111\obj\Debug\net7.0\task111111.csproj.CoreCompileInputs.cache
